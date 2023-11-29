@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane prefHeight="532.0" prefWidth="746.0" style="-fx-background-color: orange;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+    <children>
+        <FlowPane fx:id="buttons" hgap="7.0" layoutX="11.0" layoutY="265.0" prefHeight="241.0" prefWidth="327.0" vgap="7.0">
+            <children>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="A">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="B">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="C">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="D">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="E">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="F">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="G">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="H">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="I">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="J">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="K">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="L">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="M">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="N">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="O">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="P">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="Q">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="R">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="S">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="T">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="U">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="V">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="W">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="X">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="Y">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+                <Button focusTraversable="false" mnemonicParsing="false" onAction="#onClick" prefHeight="40.0" prefWidth="40.0" style="-fx-background-color: yellow;" text="Z">
+                    <font>
+                        <Font size="15.0" />
+                    </font></Button>
+            </children>
+        </FlowPane>
+        <Text fx:id="text" fill="#ff5642" layoutX="14.0" layoutY="100.0" stroke="TRANSPARENT" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="370.0000457763672">
+            <font>
+                <Font size="27.0" />
+            </font>
+        </Text>
+        <Text fx:id="winStatus" fill="#f55b71" layoutX="373.0" layoutY="380.0" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="222.04278564453125">
+            <font>
+                <Font size="31.0" />
+            </font>
+        </Text>
+        <Text fx:id="realWord" fill="#8a42ff" layoutX="175.0" layoutY="502.0" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="444.33331298828125">
+            <font>
+                <Font size="26.0" />
+            </font>
+        </Text>
+      <Text layoutX="14.0" layoutY="186.0" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="181.47002792358398" />
+        <Button fx:id="Refresh" focusTraversable="false" layoutX="14.0" layoutY="15.0" mnemonicParsing="false" onAction="#initialize" style="-fx-background-color: pink;" text="Refresh" />
+      <ImageView fx:id="pillar" fitHeight="348.0" fitWidth="275.0" layoutX="391.0" layoutY="-1.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../picture/pillar.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="rope" fitHeight="167.0" fitWidth="162.0" layoutX="461.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../picture/rope.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="head" fitHeight="141.0" fitWidth="89.0" layoutX="484.0" layoutY="37.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../picture/head.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="shirt" fitHeight="215.0" fitWidth="149.0" layoutX="446.0" layoutY="84.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../picture/shirt.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="pants" fitHeight="115.0" fitWidth="87.0" layoutX="480.0" layoutY="177.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../picture/pants.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="right_hand" fitHeight="109.0" fitWidth="89.0" layoutX="545.0" layoutY="146.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../picture/right_hand.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="left_hand" fitHeight="113.0" fitWidth="75.0" layoutX="423.0" layoutY="148.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../picture/left_hand.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="left_leg" fitHeight="94.0" fitWidth="67.0" layoutX="472.0" layoutY="217.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../picture/left_leg.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="right_leg" fitHeight="94.0" fitWidth="67.0" layoutX="513.0" layoutY="218.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../picture/right_leg.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="Winner" fitHeight="478.0" fitWidth="668.0" layoutX="83.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../picture/Winner.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="Win_new_game" focusTraversable="false" layoutX="274.0" layoutY="295.0" mnemonicParsing="false" onAction="#newGame" prefHeight="50.0" prefWidth="117.0" style="-fx-background-color: pink;" text="New Game">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Button>
+      <ImageView fx:id="Game_Over" fitHeight="431.0" fitWidth="438.0" layoutX="130.0" layoutY="28.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../picture/Game%20Over%20!.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="Lose_new_game" focusTraversable="false" layoutX="274.0" layoutY="295.0" mnemonicParsing="false" onAction="#newGame" prefHeight="50.0" prefWidth="117.0" style="-fx-background-color: pink;" text="New Game">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Button>
+      <Button fx:id="Exit1" focusTraversable="false" layoutX="276.0" layoutY="365.0" mnemonicParsing="false" onAction="#Exit" prefHeight="50.0" prefWidth="117.0" style="-fx-background-color: pink;" text="Exit">
+         <font>
+            <Font size="21.0" />
+         </font>
+      </Button>
+    </children>
+</Pane>
